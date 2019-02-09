@@ -1,4 +1,4 @@
-## Seven herbs to make German Green Sauce
+## Seven herbs to make German Green Sauce 🌱
 
 Repo to classify between seven different herbs you need to make German Green Sauce
 
