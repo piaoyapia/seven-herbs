@@ -1,7 +1,7 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+## Seven herbs to make German Green Sauce
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+Repo to classify between seven different herbs you need to make German Green Sauce
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
-
+This Repository is build from the "render-examples/fastai-v3".
+It was used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
 The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
