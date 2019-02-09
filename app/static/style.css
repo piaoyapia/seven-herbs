@@ -18,7 +18,7 @@ body {
 }
 
 .title {
-    font-size: 30px;
+    font-size: 34px;
     margin-top: 1em;
     margin-bottom: 1em;
     color: #262626;
@@ -40,7 +40,8 @@ body {
 .result-label {
     margin-top: 0.5em;
     padding: 10px;
-    font-size: 13px;
+    font-size: 20px;
+    border: solid 1px #367A33;
 }
 
 button.choose-file-button {
