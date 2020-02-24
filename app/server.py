@@ -8,8 +8,8 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1erDkd7SRdk1M0BXXfmSLPiImK-JTJFXi'
-export_file_name = 'export.pkl'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1cLziI9TJNb2mf7QWDe4XzzgANgkfZWO-'
+export_file_name = 'herbs_export_60_res34.pkl'
 
 classes = ['borage', 'chervil', 'chives', 'garden_cress', 'parsley', 'salat_burnet', 'sorrel']
 path = Path(__file__).parent
